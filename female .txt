@@ -5,3 +5,11 @@ name : chithra
 film : nanthanam
 
 year : 2002
+
+2.
+
+name : sreya goshal
+
+film : ashiq 2
+
+year : 2016
